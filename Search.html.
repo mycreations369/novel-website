@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Search Stories</title>
+</head>
+
+<body>
+
+<h1>Search Stories</h1>
+
+<input type="text" placeholder="Search story...">
+<button>Search</button>
+
+</body>
+</html>
